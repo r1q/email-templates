@@ -3,7 +3,9 @@
   "scripts": {
     "thumbnails": "node ./generate-thumbnails"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mjml-head-style": "^3.3.5"
+  },
   "devDependencies": {
     "es6-promisify": "^5.0.0",
     "mjml": "^3.3.0",
