@@ -1,0 +1,60 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+        .mso-hide {
+          mso-hide:all;
+        }
+      </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#F0F0F0" width="600">
+      <mj-section background-color="#ffffff" padding="0">
+        <mj-column width="100%" vertical-align="bottom">
+          <mj-image width="600" padding="0"
+          src="http://images.info.fleetmatics.com/EloquaImages/clients/FleetMatics/%7B63148d96-689e-4d43-84c4-efbbc45995a3%7D_8-benefits-construction.jpg" alt="8 benefits of GPS fleet tracking in construction"
+          href="https://landing.fleetmatics.com/gps-benefits/construction?utm_source=BOB&utm_medium=Advertisement&utm_campaign=TOFU_BOB_BAF_EBL_construction_benefits_jan&utm_content=construction_benefits"></mj-image>
+        </mj-column>
+
+      </mj-section>
+      <mj-section background-color="#ffffff" vertical-align="top" padding="30px 20px 20px">
+        <mj-column width="100%" vertical-align="left">
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="23" font-weight="600" color="#474747">
+            Keep an eye on your crew wherever you are
+          </mj-text>
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="16" color="#474747">
+            What if you could see where your crews and vehicles are throughout the day on your smartphone? It could make your job a lot easier.
+            <br><br>
+            <strong>Download our eBook</strong> to learn how GPS fleet tracking can help you:
+            <br><br>
+            <ul>
+            <li>Know when your guys enter and leave a job site</li>
+            <li>Monitor driver behavior and encourage safer habits</li>
+            <li>See where equipment is on job sites</li>
+            <li>Use our mobile app to see it all</li>
+            </ul>
+          </mj-text>
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="16" color="#474747">
+          <!--[if mso]>
+            <br><br>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:w="urn:schemas-microsoft-com:office:word"
+            href="https://landing.fleetmatics.com/gps-benefits/construction?utm_source=BOB&utm_medium=Advertisement&utm_campaign=TOFU_BOB_BAF_EBL_construction_benefits_jan&utm_content=construction_benefits"
+            style="height:50px;v-text-anchor:middle;width:220px;"
+            arcsize="53%" strokecolor="#000000" fillcolor="#000000">
+              <w:anchorlock/>
+              <center style="color:#ffffff;font-family:Arial,sans-serif;font-size:20px;">Get your copy now</center>
+            </v:roundrect>
+          <![endif]-->
+          </mj-text>
+          <mj-button align="left" background-color="#000" color="#fff" border-radius="24px" href="https://landing.fleetmatics.com/gps-benefits/construction?utm_source=BOB&utm_medium=Advertisement&utm_campaign=TOFU_BOB_BAF_EBL_construction_benefits_jan&utm_content=construction_benefits" font-family="Helvetica, Arial" padding-bottom="45" padding-top="10" font-size="17">
+            Get your copy now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column></mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

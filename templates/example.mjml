@@ -1,0 +1,93 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="#F0F0F0" width="600">
+      <mj-section>
+        <mj-column width="66.66666666666666%" vertical-align="middle">
+          <mj-image src="http://images.info.fleetmatics.com/EloquaImages/clients/FleetMatics/%7Bd47b6116-8b4d-49b6-bc09-e6d64ee55f0e%7D_vz-fltx-logo-mono_2x.png" width="166" align="left" padding-left="0"></mj-image>
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+
+          <mj-text align="right" font-size="17"  font-family="Helvetica,Arial" padding-bottom="0" padding-top="0" padding-right="0">
+
+            +1 (844) 617 1100
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-url="https://www.datocms-assets.com/992/1516202767-ebook_image-be_eld_winner.jpg?w=600&h=400&fit=crop&blend=http://assets.imgix.net/blog/blog-blends.pdf%3Fpage%3D1&bm=multiply&bw=600&bh=400&bf=crop&ba=bottom%2Ccenter&bc=bottom%2Ccenter" vertical-align="middle" background-size="cover" background-repeat="no-repeat" background-color="#474747">
+        <mj-column width="33%" vertical-align="bottom">
+          <mj-text align="left" font-size="34" color="#ffffff" font-weight="bold" line-height="40px" padding-top="200" padding-left="40" font-family="Helvetica, Arial">
+            Landscaping case studies
+          </mj-text>
+        </mj-column>
+        <mj-column width="67%" vertical-align="bottom">
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" vertical-align="top" padding="30px 20px 20px">
+        <mj-column width="100%" vertical-align="left">
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="17" color="#474747">
+            Thank you for requesting the [[Landscaping Case Studies]] [[ebook]]. You will find it attached to this email for immediate download.
+          </mj-text>
+          <mj-button align="left" background-color="#000" color="#fff" border-radius="24px" href="[[resource-link]]" font-family="Helvetica, Arial" padding-bottom="45" padding-top="10" font-size="17">
+            Get my ebook
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column></mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" padding="40px 40px 0 40px" >
+        <mj-column width="100%">
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="23" color="#47474" font-weight="bold" line-height="30px" padding="0">
+            Here are some other resources you might be interested in
+          </mj-text>
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="17" color="#474747" padding="20px 0">
+            Get the latest GPS fleet tracking resources direct to you
+          </mj-text>
+        </mj-column>
+        <mj-column width="160">
+          <mj-image src="http://images.info.fleetmatics.com/EloquaImages/clients/FleetMatics/%7Baf95d0ea-5a8b-4aae-adcb-155d8d5e38cf%7D_cover_1_2x.jpg" alt="Fleet productivity gains" padding="20px 0 0 0" width="160"></mj-image>
+        </mj-column>
+        <mj-column width="360">
+          <mj-text align="left" color="#474747" font-size="17" line-height="26px" padding-bottom="20" padding-top="30" font-family="Helvetica, Arial">
+            Learn how to control issues that can derail productivity and profitability.<br>
+<a href="#" style="color:#D52B1E;font-weight:bold;text-decoration:none">Find out how</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#cccccc" padding="20px 0"></mj-divider>
+        </mj-column>
+        <mj-column width="160">
+          <mj-image src="http://images.info.fleetmatics.com/EloquaImages/clients/FleetMatics/%7Bb98319d3-1f09-4619-af75-ceb5f6c94610%7D_cover_2_2x.jpg" alt="Benefits of fleet tracking" padding="20px 0 0 0"></mj-image>
+        </mj-column>
+        <mj-column width="360">
+          <mj-text align="left" color="#474747" font-size="17" line-height="26px" padding-bottom="20" padding-top="30" font-family="Helvetica, Arial">
+            See how fleet tracking can help you identify problem drivers and reduce risk.<br>
+<a href="#" style="color:#D52B1E;font-weight:bold;text-decoration:none">Get my ebook</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider border-width="1px" border-color="#cccccc" padding="20px 0"></mj-divider>
+        </mj-column>
+        <mj-column width="160">
+          <mj-image src="http://images.info.fleetmatics.com/EloquaImages/clients/FleetMatics/%7B8bc956fe-55cd-4d9b-9e8b-f7e311dc7b77%7D_cover_3_2x.jpg" alt="Controlling fleet expenses" padding="20px 0 0 0"></mj-image>
+        </mj-column>
+        <mj-column width="360">
+          <mj-text align="left" color="#474747" font-size="17" line-height="26px" padding-bottom="20" padding-top="30" font-family="Helvetica, Arial">
+            Discover small changes that can make a big impact in reducing fleet expenses.<br>
+<a href="#" style="color:#D52B1E;font-weight:bold;text-decoration:none">Learn more</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-spacer height="40"></mj-spacer>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text color="#9b9b9b" font-size="11" font-family="Helvetica,Arial" align="center">
+            Copyright © 2018 Verizon. All rights reserved. The Verizon name and logo and all other names, logos, and slogans identifying Verizon’s products and services are trademarks and service marks or registered trademarks and service marks of Verizon Trademark Services LLC or its affiliates in the United States and/or other countries. All other trademarks and service marks are the property of their respective owners.
+
+
+          </mj-text>
+    </mj-container>
+  </mj-body>
+</mjml>

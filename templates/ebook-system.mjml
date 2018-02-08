@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+        .mso-hide {
+          mso-hide:all;
+        }
+      </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#F0F0F0" width="600">
+      <mj-section background-color="#ffffff" padding="0">
+        <mj-column width="100%" vertical-align="bottom">
+          <mj-image width="600" padding="0"
+          src="https://www.datocms-assets.com<span class=eloquaemail >ebook___Image_Path1</span>?w=600&h=300&fit=crop&blend=https%3A%2F%2Fs3.amazonaws.com%2Ftelogis-email%2Fimages%2Febook-cover-scrim.png&bm=multiply&bw=600&bh=400&bf=crop&ba=bottom%2Ccenter&bc=bottom%2Ccenter&markpad=25&markalign=bottom%2Cleft&mark=http%3A%2F%2Fassets.imgix.net%2F%7Etext%3Ftxt%3D<span class=eloquaemail>ebook___Resource_Name1</span>%26txtclr%3Dfff%26txtfont%3DHelvetica%20Neue%2CBold%26w%3D400%26txtsize%3D38" alt="<span class=eloquaemail>ebook___Resource_Name1</span>"
+          href="https://www.datocms-assets.com<span class=eloquaemail >ebook___Download_Link1</span>"></mj-image>
+        </mj-column>
+
+      </mj-section>
+      <mj-section background-color="#ffffff" vertical-align="top" padding="30px 20px 20px">
+        <mj-column width="100%" vertical-align="left">
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="16" font-weight="600" color="#474747">
+            <span class="eloquaemail">First_Name___Title_Case1</span>,
+          </mj-text>
+          <mj-text align="left" font-family="Helvetica, Arial" font-size="16" color="#474747">
+            Thank you for your interest in <span class=eloquaemail>ebook___Resource_Name1</span> ebook. You now have access to your download at anytime.<br><br>
+
+
+          <!--[if mso]>
+          <br><br>
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+          xmlns:w="urn:schemas-microsoft-com:office:word"
+          href="https://www.datocms-assets.com<span class=eloquaemail >ebook___Download_Link1</span>"
+          style="height:50px;v-text-anchor:middle;width:220px;"
+          arcsize="53%" strokecolor="#000000" fillcolor="#000000">
+            <w:anchorlock/>
+            <center style="color:#ffffff;font-family:Arial,sans-serif;font-size:20px;">Get my ebook</center>
+          </v:roundrect>
+        <![endif]-->
+
+
+      </mj-text>
+      <mj-button align="left" background-color="#000" color="#fff" border-radius="24px" href="https://www.datocms-assets.com<span class=eloquaemail >ebook___Download_Link1</span>" font-family="Helvetica, Arial" padding-bottom="45" padding-top="10" font-size="17">
+        Get my ebook
+      </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column></mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
